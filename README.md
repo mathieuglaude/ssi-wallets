@@ -9,4 +9,4 @@ An overview of SSI wallets
 - [Connect.Me Wallet](https://try.connect.me/) by [Evernym](https://github.com/evernym)
 - [Data Wallet](https://igrant.io/datawallet.html) by [iGrant.io](https://github.com/L3-iGrant)
 - [Gataca Identity](https://gataca.io/products/) by [Gataca](https://github.com/gataca-io)
-
+- [NB Orbit Wallet](https://northernblock.io/products/ssi-digital-wallet/) by [Northern Block](https://northernblock.io/)
